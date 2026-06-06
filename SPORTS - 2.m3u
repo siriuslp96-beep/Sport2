@@ -1,0 +1,997 @@
+#EXTM3U
+
+#For OILY Only
+
+
+#EXTINF:-1  group-title="📺HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983",HUB PREMIER 101
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=620786&extension=ts
+#EXTINF:-1 group-title="📺HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 102
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=620786&extension=ts
+#EXTINF:-1 group-title="📺HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" ,HUB PREMIER 103
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032529&extension=ts
+#EXTINF:-1 group-title="📺HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" ,HUB PREMIER 104
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:60:86:D9&stream=1032529&extension=t
+#EXTINF:-1 group-title="📺HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" ,HUB PREMIER 105
+http://magtx.coretvco.vip:80/play/live.php?mac=00:1B:79:20:1C:9E&stream=1032529&extension=ts
+#EXTINF:0 group-title="📺HUB PREMIER" ,HUB PREMIER 106
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:41:0B:AE&stream=1032529&extension=ts&play_token=pHcYiWIPFc
+#EXTINF:-1 group-title="📺HUB PREMIER"  tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" ,HUB PREMIER 107
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1032529&extension=ts
+#EXTINF:-1  group-title="📺HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983",HUB PREMIER 108
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=620786&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png" ,HUB PREMIER 109
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1032529&extension=ts
+
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 201
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=620785&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 202
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=620785&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 203
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032518&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 204
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:60:86:D9&stream=1032528&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 205
+http://magtx.coretvco.vip:80/play/live.php?mac=00:1B:79:20:1C:9E&stream=1032528&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 206
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:63:4F:FE&stream=1032528&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 207
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1032528&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 208
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1032518&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 209
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=620785&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 210
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1032518&extension=ts
+
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 301
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=620784&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 302
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=620784&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" ,HUB PREMIER 303
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032527&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" ,HUB PREMIER 304
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:60:86:D9&stream=1032527&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" ,HUB PREMIER 305
+http://magtx.coretvco.vip:80/play/live.php?mac=00:1B:79:20:1C:9E&stream=1032527&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" ,HUB PREMIER 306
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:63:4F:FE&stream=1032527&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png" ,HUB PREMIER 307
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1032527&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 308
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=620784&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 309
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1032527&extension=ts
+
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 401
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=620783&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 402
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=620783&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png" ,HUB PREMIER 403
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1032526&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 404
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=620783&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 405
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1032526&extension=ts
+
+#EXTINF:-1  group-title="HUB PREMIER"tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 501
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=620782&extension=ts
+#EXTINF:-1  group-title="HUB PREMIER"tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" ,HUB PREMIER 502
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=620782&extension=ts
+#EXTINF:-1 group-title="HUB PREMIER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png" ,HUB PREMIER 503
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1032525&extension=ts
+
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" ,MonoMax 101
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:B8:2B:98&stream=1902358&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 102
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1537968&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" ,MonoMax 103
+http://magtx.coretvco.vip:80/play/live.php?mac=00:1B:79:20:1C:9E&stream=1902358&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" ,MonoMax 104
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:63:4F:FE&stream=1032519&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" ,MonoMax 105
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902358&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 106
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1537968&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 107
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1537968&extension=ts
+
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 201
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1537967&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" ,MonoMax 202
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902357&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 203
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1537967&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 204
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1537967&extension=ts
+
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 301
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1537966&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" ,MonoMax 302
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902356&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 303
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1537966&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 304
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1537966&extension=ts
+
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 401
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1537965&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" ,MonoMax 402
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902355&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 403
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1537965&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 404
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1537965&extension=ts
+
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 501
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1537964&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" ,MonoMax 502
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902354&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 503
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1537964&extension=ts
+#EXTINF:-1 group-title="MONOMAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14431.jpg?ver=50441" ,MonoMax 504
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1537964&extension=ts
+
+#EXTINF:-1 group-title="📺SINGAPORE SPORTS" tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRRFFMSrvMcM7DUhY5XrsHDoaBQtnM2CQFz2aAnJO1Amekvh1qgf3Ieb26MW5Qkl5QHrX6lnIg_WNcZoQvHFrbcinspk2cWeu7X38bgsL7DoA.png" ,HUB SPORTS 1 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903771&extension=ts
+
+#EXTINF:-1 group-title="📺SINGAPORE SPORTS" tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRRFFMSrvMcM7DUhY5XrsHDk9oInfdJ0lWz-EsC5vledcI2um70w2yqgs0jq3fFnmYC06ZQF0Sget5PjlVrb5PFYwZc4q_2Tu57pTY-OfImLA.png" ,HUB SPORTS 2 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903772&extension=ts
+
+#EXTINF:-1 group-title="📺SINGAPORE SPORTS" tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRRFFMSrvMcM7DUhY5XrsHDppZV0DHHJaMvx1BByB-PJ1IsA-hy6g4UKwn5bJChAdL9Kkjb04vS6MNwNYGMOkWzT9umAwGsgravhCkDAEwc.png" ,HUB SPORTS 3 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903773&extension=ts
+
+#EXTINF:-1 group-title="📺SINGAPORE SPORTS" tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9bAMaRRFFMSrvMcM7DUhY5XrsHDp79pFhKse2tiY8L9D92nL4laSGC8jGmhgjeJSnetXNLzUBCAp11u6YruO6B17gJ_rXT0FAku62iaPuZUs_B3Ng.png" ,HUB SPORTS 4 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903774&extension=ts
+
+#EXTINF:-1 group-title="📺SINGAPORE SPORTS" tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRRFFMSrvMcM7DUhY5XrsHDo_SdX8FQ3i2gQhcc9neAknHzOyrlD-rUYRFDAI8leuZOsJ7mL2Ta5nkwadimioi4iYgyz_tnFkiwnZdCVI2uv8.png" ,HUB SPORTS 5 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903775&extension=ts
+
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 101
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1698843&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 102 
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083665&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,ZIGGO SPORT 103 
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011263&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 104
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069726&extension=ts
+
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 201
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1698842&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 202
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083664&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,ZIGGO SPORT 203
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011262&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 204
+hhttp://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069725&extension=ts
+
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 301
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083663&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,ZIGGO SPORT 302
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011261&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 303
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069724&extension=ts
+
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 401
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083662&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,ZIGGO SPORT 402
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011260&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 403
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069723&extension=ts
+
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 501
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083661&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,ZIGGO SPORT 502
+ http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011259&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 503
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069722&extension=ts
+
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 601
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1698841&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 602
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083660&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,ZIGGO SPORT 603
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011258&extension=ts
+#EXTINF:-1 group-title="ZIGGO SPORT" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" ,ZIGGO SPORT 604
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069721&extension=ts
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png" ,PLAY+| ESPN 101 ᴿᴬᵂ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1698847&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png" ,PLAY+| ESPN 102 ᴿᴬᵂ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083669&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,PLAY+| ESPN 103 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011267&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png" ,PLAY+| ESPN 104 ᴿᴬᵂ
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069730&extension=ts
+
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN2.png" ,PLAY+| ESPN 201 ᴿᴬᵂ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1698846&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN2.png" ,PLAY+| ESPN 202 ᴿᴬᵂ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083668&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,PLAY+| ESPN 203 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011266&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png" ,PLAY+| ESPN 204 ᴿᴬᵂ
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069729&extension=ts
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN-3.png" ,PLAY+| ESPN 301 ᴿᴬᵂ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1698845&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN-3.png" ,PLAY+| ESPN 302 ᴿᴬᵂ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083667&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,PLAY+| ESPN 303 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011265&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png" ,PLAY+| ESPN 304 ᴿᴬᵂ
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069728&extension=ts
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN4.png" ,PLAY+| ESPN 401 ᴿᴬᵂ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1698844&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN4png" ,PLAY+| ESPN 402 ᴿᴬᵂ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=2083666&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660" ,PLAY+| ESPN 403 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=2011264&extension=ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png" ,PLAY+| ESPN 404 ᴿᴬᵂ
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=2069727&extension=ts
+
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwda4kUSRFA31bMFYIJFHOKoTxUZF08j0mYB-gfYT-uNQsNkxzC6DQ9ArL7DzNNQS6GcUpznnA-xEGdAOOpwPte.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 4K
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903729&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EV1Mf9tHOgLtDuHouRbbT0g17WkaVLjwUIw6O96LWEj9.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 1
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903752&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EaCLO2Dw5f2wzPNGuR5oXqGIZAOfkpYZob6Jc_vSROvr.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 2
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903751&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7Ed_AuUPreoZnnAgMxMvkl_dfnsKVUxhgmgTxn1qCYoMa.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 3
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903750&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EfnnMXXAhyMVBtihfTO0jzkbr2x_QqkE-ceIdO_czs-F.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 4
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903749&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EY3T7FUatGGdYUH05uaPPu-gZp0keU9nPAyvhVH59DlX.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 5
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903748&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EUTURtCiov4GRqyU8o53Kv-VqzoZtVgLuMck_EHZc37G.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 6
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903747&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyB53Ch6PEftxysdxZajmb3GCKKoAy-1aMY3HL69tfeTigGbzhwXpxaBYNQ_XXrDBRoCwu51E0QkCdQatF8MQr4M.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PRIME 630
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903746&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyNuXaN_i6pzNIY5Dia9oF7RAYafOVgmJ_mF0q8L2MJUnaiJzpbrp7__Wo9epihPxFuU_TjGwjHq6Hjt6o8gwBy4.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 1 631
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903745&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyPufhIoQzUJNANtY2EXvOKF-yrU2_H1zUk1BMyyx5C17q8c89wgG2ceUSLUA4dXV9WS7Cc-hDGN6WllmV74DT8k.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 2 632
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903744&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyLJUAA4YX7Thah3YmkuzUfPsB2VD0wYcJoS8nMVnEfrSINYuxR39ruCrj5uRcn8taJGVqivCvSaM9sQXDYvVp5k.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 3 633
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903743&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyNTH15ddS3AV3mLjJo5t0qIcGclTaDoZ_TFRaAoqojkA_stiryTYlxtDKzXhU6qOaZI3Kv_THtnaSXBZJCgnAPw.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 4 634
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903742&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyK6ASce_qa4Q_ci2egs9ID9Zq4swM6fhDgwVsiUtsP_3w35aF0jilBkTnVszFaSHOF-4o_i7RXuCIj8Xnp2QUlo.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 5 635
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903741&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyPEEc4gheoiksu15LHqj-KgorWSQwAjeKH3mr0JcsQndB3B38Ew-d94yUbiZNfJcOCyypwLyBrD_ZvGYTefviLs.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 6 636
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903740&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyApdvClG7tHlB_FmxSIvfgi1RHsrtjKjC0Wlj8LDCMD_oK7tbOEyk3GI7qVzb8Cds3FLc7YhZXTzCkCsRKfZj6A.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 7 637
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903739&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyGjZeBwl4cUls9ob72i8po_JOEvbhTEgxSQHiaI8uROaNw2oJmznq5hsU6XVpBV7j92Evxg30THqBI4ypyE1g6E.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 1 638
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903738&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyPPW_xb4NLYgN9gbjuoUzOHidlfgQAkuf01-UM-HADDyxi1BGWJhk0Ek2358HB9s5zaAjZVTsi_iJGT2QbFR34g.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 2 639
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903737&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyJjBT1nKQu0FLh8Y7aQ1GWbTPdzdfwyAT-e_WZPXRafvpMfXlZz7e87cqot2EFN9eQhJqM-LnOKH3DcKBI3wShI.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 3 643
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903736&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyHJ4egW7LWW_jrfCKhYBEPagkRCtKpUTSfQdx-M4KXQ03jKbNLLayonVICuwvnktmm6VRqlgxOiMogrcM4C4-tw.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 4 644
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903735&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyHinLQ2ljippHagH9RBStu8oG8mV9qZzUusxVa7PHGxGSzmRMxV4nvWkxvNQrbe9D7dTOK2F6qXMQxZvEdScH4U.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 5 645
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903734&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyJPmPdsqK87-6RtHhRYdEzDFlGSPA2EWvHKF2Ujp0zzoIoggCPkpnxNjMhBbu8KrNAlZwusdZT0OpEGrunveOrk.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 6 646
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903733&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyN2ajmnyvRuKRDENHTGNETW_Oji-wwUTdJWaLhubOGoZfKz2wZtF-9aH8Lun4m2IE-OAcY-sM4bhjKWa3Q8KKzQ.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PLUS 680
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903732&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyGJPDYDEA0fifTSnkq4LXMdGYRsBJ9RGQTL6IDe2Toi7MoMkQLsJRsyHpjptLqAsdtJNFNrKr7FWzQPJznoA9Bk.png" group-title="HK| HONGKONG SPORTS",HK| NOW GOLF 2 683
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903731&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyNBpTkmTxV8WsObfRR4Wn3vghWftTGEA8hXpZOuilO1AkhWPIs9nx3hJ-J842q3VVSXD4ncyyPnzg8dWcaqWkLc.png" group-title="HK| HONGKONG SPORTS",HK| NOW GOLF 3 684
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903730&extension=ts
+
+#EXTINF:-1 group-title="📺4K"tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?81674" ,TNT SPORTS ULTIMATE ⁴ᵏ 101
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290338&extension=ts
+#EXTINF:-1 group-title="📺4K" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" ,TNT SPORTS ULTIMATE ⁴ᵏ 102
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:63:4F:FE&stream=1595637&extension=ts
+
+
+#EXTINF:-1  group-title="📺Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" ,Arena Sport 101
+http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:36:21:64&stream=559143&extension=ts
+#EXTINF:-1  group-title="📺Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" ,Arena Sport 102
+http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:18:D8:45&stream=559143&extension=ts
+#EXTINF:-1  group-title="📺Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" ,Arena Sport 103
+http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:4C:C3:CD&stream=559143&extension=ts
+
+#EXTINF:-1  group-title="📺Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 201
+http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:36:21:64&stream=559144&extension=ts
+#EXTINF:-1  group-title="📺Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 202
+http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:18:D8:45&stream=559144&extension=ts
+#EXTINF:-1  group-title="📺Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 203
+http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:4C:C3:CD&stream=559144&extension=ts
+
+#EXTINF:-1  group-title="📺Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 301
+http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:36:21:64&stream=559145&extension=ts
+#EXTINF:-1  group-title="📺Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 302
+http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:18:D8:45&stream=559145&extension=ts
+#EXTINF:-1  group-title="📺Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 303
+http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:4C:C3:CD&stream=559145&extension=ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 1 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290337&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 2 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290336&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 3 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290335&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 4 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290334&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ #######
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290333&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290332&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290331&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290330&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290329&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ʰᵉᵛᶜ #######
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290328&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290327&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290326&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290325&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290324&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ᴿᴬᵂ #######
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290323&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290322&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290321&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290320&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:34:38:36&stream=1290319&extension=ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ⁵⁰ FPS #######
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290339&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?81674" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS ULTIMATE ⁴ᵏ & ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290338&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 1 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290337&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 2 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290336&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 3 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290335&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 4 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290334&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ #######
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290333&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290332&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290331&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290330&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290329&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ʰᵉᵛᶜ #######
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290328&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290327&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290326&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290325&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290324&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ᴿᴬᵂ #######
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290323&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290322&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290321&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290320&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1290319&extension=ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ⁵⁰ FPS #######
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290339&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?81674" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS ULTIMATE ⁴ᵏ & ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290338&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 1 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290337&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 2 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290336&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 3 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290335&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 4 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290334&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ #######
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290333&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290332&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290331&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290330&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290329&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ʰᵉᵛᶜ #######
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290328&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290327&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290326&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290325&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ ʰᵉᵛᶜ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290324&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ᴿᴬᵂ #######
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290323&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290322&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290321&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290320&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=1290319&extension=ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwda4kUSRFA31bMFYIJFHOKoTxUZF08j0mYB-gfYT-uNQsNkxzC6DQ9ArL7DzNNQS6GcUpznnA-xEGdAOOpwPte.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 4K
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903729&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EV1Mf9tHOgLtDuHouRbbT0g17WkaVLjwUIw6O96LWEj9.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 1
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903752&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EaCLO2Dw5f2wzPNGuR5oXqGIZAOfkpYZob6Jc_vSROvr.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 2
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903751&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7Ed_AuUPreoZnnAgMxMvkl_dfnsKVUxhgmgTxn1qCYoMa.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 3
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903750&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EfnnMXXAhyMVBtihfTO0jzkbr2x_QqkE-ceIdO_czs-F.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 4
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903749&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EY3T7FUatGGdYUH05uaPPu-gZp0keU9nPAyvhVH59DlX.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 5
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903748&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaR01sGHbOgbs9hkEAoomc3VrZ8y6WaJmTYNlz4o_sXSPwDvW-Z2gQfYEXKxBIQMBXP8C5_DB0ou3KGCWLqzGQ7EUTURtCiov4GRqyU8o53Kv-VqzoZtVgLuMck_EHZc37G.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PREMIER LEAGUE 6
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903747&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyB53Ch6PEftxysdxZajmb3GCKKoAy-1aMY3HL69tfeTigGbzhwXpxaBYNQ_XXrDBRoCwu51E0QkCdQatF8MQr4M.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PRIME 630
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903746&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyNuXaN_i6pzNIY5Dia9oF7RAYafOVgmJ_mF0q8L2MJUnaiJzpbrp7__Wo9epihPxFuU_TjGwjHq6Hjt6o8gwBy4.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 1 631
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903745&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyPufhIoQzUJNANtY2EXvOKF-yrU2_H1zUk1BMyyx5C17q8c89wgG2ceUSLUA4dXV9WS7Cc-hDGN6WllmV74DT8k.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 2 632
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903744&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyLJUAA4YX7Thah3YmkuzUfPsB2VD0wYcJoS8nMVnEfrSINYuxR39ruCrj5uRcn8taJGVqivCvSaM9sQXDYvVp5k.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 3 633
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903743&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyNTH15ddS3AV3mLjJo5t0qIcGclTaDoZ_TFRaAoqojkA_stiryTYlxtDKzXhU6qOaZI3Kv_THtnaSXBZJCgnAPw.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 4 634
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903742&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyK6ASce_qa4Q_ci2egs9ID9Zq4swM6fhDgwVsiUtsP_3w35aF0jilBkTnVszFaSHOF-4o_i7RXuCIj8Xnp2QUlo.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 5 635
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903741&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyPEEc4gheoiksu15LHqj-KgorWSQwAjeKH3mr0JcsQndB3B38Ew-d94yUbiZNfJcOCyypwLyBrD_ZvGYTefviLs.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 6 636
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903740&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyApdvClG7tHlB_FmxSIvfgi1RHsrtjKjC0Wlj8LDCMD_oK7tbOEyk3GI7qVzb8Cds3FLc7YhZXTzCkCsRKfZj6A.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS 7 637
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903739&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyGjZeBwl4cUls9ob72i8po_JOEvbhTEgxSQHiaI8uROaNw2oJmznq5hsU6XVpBV7j92Evxg30THqBI4ypyE1g6E.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 1 638
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903738&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyPPW_xb4NLYgN9gbjuoUzOHidlfgQAkuf01-UM-HADDyxi1BGWJhk0Ek2358HB9s5zaAjZVTsi_iJGT2QbFR34g.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 2 639
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903737&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyJjBT1nKQu0FLh8Y7aQ1GWbTPdzdfwyAT-e_WZPXRafvpMfXlZz7e87cqot2EFN9eQhJqM-LnOKH3DcKBI3wShI.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 3 643
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903736&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyHJ4egW7LWW_jrfCKhYBEPagkRCtKpUTSfQdx-M4KXQ03jKbNLLayonVICuwvnktmm6VRqlgxOiMogrcM4C4-tw.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 4 644
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903735&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyHinLQ2ljippHagH9RBStu8oG8mV9qZzUusxVa7PHGxGSzmRMxV4nvWkxvNQrbe9D7dTOK2F6qXMQxZvEdScH4U.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 5 645
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903734&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyJPmPdsqK87-6RtHhRYdEzDFlGSPA2EWvHKF2Ujp0zzoIoggCPkpnxNjMhBbu8KrNAlZwusdZT0OpEGrunveOrk.png" group-title="HK| HONGKONG SPORTS",HK| BEIN SPORTS 6 646
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903733&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyN2ajmnyvRuKRDENHTGNETW_Oji-wwUTdJWaLhubOGoZfKz2wZtF-9aH8Lun4m2IE-OAcY-sM4bhjKWa3Q8KKzQ.png" group-title="HK| HONGKONG SPORTS",HK| NOW SPORTS PLUS 680
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903732&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyGJPDYDEA0fifTSnkq4LXMdGYRsBJ9RGQTL6IDe2Toi7MoMkQLsJRsyHpjptLqAsdtJNFNrKr7FWzQPJznoA9Bk.png" group-title="HK| HONGKONG SPORTS",HK| NOW GOLF 2 683
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903731&extension=ts
+#EXTINF:-1 tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRLmywzXyktBiOGBqrBH2wyNBpTkmTxV8WsObfRR4Wn3vghWftTGEA8hXpZOuilO1AkhWPIs9nx3hJ-J842q3VVSXD4ncyyPnzg8dWcaqWkLc.png" group-title="HK| HONGKONG SPORTS",HK| NOW GOLF 3 684
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1903730&extension=ts
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### BEIN SPORTS #####
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238271&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 1 EN FHD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=483921&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 1 EN HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=49226&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 2 EN FHD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=483920&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 2 EN HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=49225&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 EN SD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=735946&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238265&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 PREMIUM HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238261&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 EN SD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=735945&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238264&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 PREMIUM HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238262&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 EN SD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=735944&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238266&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 PREMIUM HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238263&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS4.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238267&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS5.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 5 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238268&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS6.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 6 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238269&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 7 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=238270&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS AU 1
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1348093&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS AU 2
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1348102&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS AU 3
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1348103&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### BEIN SPORTS ASIA #####
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=923433&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS ASIA 1
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=923432&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| UK| BEIN SPORTS ASIA 2
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=923431&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| UK| BEIN SPORTS ASIA 3
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=923430&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### SUPER SPORTS #####
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239075&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS ACTION HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=425668&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS BLITZ HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=425310&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS CRICKET HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239087&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS EVENTS HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=425312&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS FOOTBALL HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239083&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS GOLF HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=425667&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS GRANDSTAND HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239079&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS LIGA HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239076&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS MAXIMO HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=425666&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS MOTORSPORT HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239082&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPER SPORTS PLAY 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=425313&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PLAY 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=425311&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PL HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239078&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PSL HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239077&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS RUGBY HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239086&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS TENNIS HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=425314&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239081&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239080&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239085&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=239084&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK ASTRO SPORTS #####
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=918987&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Football
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=918983&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Football
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1016545&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Grandstand
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=918984&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Premier League
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1016544&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Premier League 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=918985&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Premier League HD
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=918986&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK NOW SPORTS #####
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032490&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 1
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032479&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 2
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032478&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 3
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032477&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032476&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 616
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032489&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 617
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032488&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 5
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032475&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 6
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032474&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 7
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032473&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 1
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032487&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 2
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032486&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 3
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032485&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 4
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032484&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 5
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032483&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 6
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032482&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 7
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032481&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 8
+http://line.vueott.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=1032480&extension=ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPRJ1dxw/Sport-On-Ais-Logo-GIF.gif" group-title="8K| WORLD CUP 2026 ⁸ᴷ",### WORLD CUP 2026 ⁸ᴷ ###
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012667&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12612.jpg?65553" group-title="8K| WORLD CUP 2026 ⁸ᴷ",US: FOX SPORTS 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012600&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/613.jpg?12957" group-title="8K| WORLD CUP 2026 ⁸ᴷ",US: FOX SPORTS 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012599&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/13791.png?21811" group-title="8K| WORLD CUP 2026 ⁸ᴷ",US: TELEMUNDO (EAST) ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012598&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12359.jpg?45605" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CA: RDS ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012639&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?24081" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CA: TSN 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012644&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?84460" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CA: TSN 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012643&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?11218" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CA: TSN 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012642&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?56170" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CA: TSN 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012641&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?58216" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CA: TSN 5 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012640&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?36007" group-title="8K| WORLD CUP 2026 ⁸ᴷ",UK: BBC 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012607&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?97372" group-title="8K| WORLD CUP 2026 ⁸ᴷ",UK: BBC 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012606&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12578.jpg?25642" group-title="8K| WORLD CUP 2026 ⁸ᴷ",UK: BBC TWO ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012605&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?17473" group-title="8K| WORLD CUP 2026 ⁸ᴷ",UK: ITV 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012604&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12001.jpg?84833" group-title="8K| WORLD CUP 2026 ⁸ᴷ",UK: ITV 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012603&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12003.jpg?90671" group-title="8K| WORLD CUP 2026 ⁸ᴷ",UK: ITV 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012602&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12005.jpg?31051" group-title="8K| WORLD CUP 2026 ⁸ᴷ",UK: ITV 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012601&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14519.png?80799" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BA: ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012653&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14521.png?83552" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BA: ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012652&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14324.jpg?38220" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BA: ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012651&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14518.png?58" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BA: ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012650&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/3766.png?14964" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BA: ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012649&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/3980.png?83684" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BA: ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012648&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14319.png?4032" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BA: ARENA SPORT PREMIUM 1 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012656&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14319.png?77921" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BA: ARENA SPORT PREMIUM 2 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012655&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3765.png?10063" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BA: ARENA SPORT PREMIUM 3 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012654&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/5998.jpg?59767" group-title="8K| WORLD CUP 2026 ⁸ᴷ",AU: SBS VICELAND MELBOURNE ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012661&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6523.jpg?46492" group-title="8K| WORLD CUP 2026 ⁸ᴷ",AUS: ORF 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012660&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6445.png?73966" group-title="8K| WORLD CUP 2026 ⁸ᴷ",AUS: SERVUS TV ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012659&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14845.png?24017" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BE: VRT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012658&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bnt1.png" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BG: BNT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012647&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bnt2.png" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BG: BNT 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012646&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bnt3.png" group-title="8K| WORLD CUP 2026 ⁸ᴷ",BG: BNT 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012645&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6365.png?56826" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CO: CARACOL ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012638&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15189.png?8849" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CO: WIN SPORTS PLUS ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012636&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15189.png?8849" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CO: WIN SPORTS ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012637&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15189.png?8849" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CO: WINSPOETS 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012635&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15189.png?8849" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CO: WINSPOETS 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012634&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15189.png?8849" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CO: WINSPOETS 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012633&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15190.png?21511" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CR: TELETICA 7 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012632&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/8217.png?84349" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CY: SiGMA CYPRUS ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012629&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10094.jpg?86096" group-title="8K| WORLD CUP 2026 ⁸ᴷ",CZ: CT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012628&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/775.jpg?75901" group-title="8K| WORLD CUP 2026 ⁸ᴷ",DE: ZDF ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012625&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10773.jpg?81259" group-title="8K| WORLD CUP 2026 ⁸ᴷ",FI: YLE TV1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012627&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6277.jpg?86838" group-title="8K| WORLD CUP 2026 ⁸ᴷ",FR: M6 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012626&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3809.png?97096" group-title="8K| WORLD CUP 2026 ⁸ᴷ",HR: HRT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012631&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3804.jpg?2270" group-title="8K| WORLD CUP 2026 ⁸ᴷ",HR: HRT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012630&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12037.jpg?54795" group-title="8K| WORLD CUP 2026 ⁸ᴷ",IR: RTE TWO ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012624&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?75914" group-title="8K| WORLD CUP 2026 ⁸ᴷ",IT: RAI 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012623&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15188.jpg?88086" group-title="8K| WORLD CUP 2026 ⁸ᴷ",LAT: TIGO SPORTS 1 BO  ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012657&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10654.png?49541" group-title="8K| WORLD CUP 2026 ⁸ᴷ",NO: NRK1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012621&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10656.png?40616" group-title="8K| WORLD CUP 2026 ⁸ᴷ",NO: NRK2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012620&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9823.jpg?67105" group-title="8K| WORLD CUP 2026 ⁸ᴷ",NZ: TVNZ 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012622&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9818.jpg?65742" group-title="8K| WORLD CUP 2026 ⁸ᴷ",PL: TVP 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012618&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?96102" group-title="8K| WORLD CUP 2026 ⁸ᴷ",PL: TVP SPORT ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012619&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11164.png?75092" group-title="8K| WORLD CUP 2026 ⁸ᴷ",PT: RTP 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012617&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14262.png?62989" group-title="8K| WORLD CUP 2026 ⁸ᴷ",PT: SPORT TV 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012616&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14263.png?32595" group-title="8K| WORLD CUP 2026 ⁸ᴷ",PT: SPORT TV 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012615&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/2258.jpg?77464" group-title="8K| WORLD CUP 2026 ⁸ᴷ",RO: TVR ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012614&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/3854.jpg?11161" group-title="8K| WORLD CUP 2026 ⁸ᴷ",RS: RTS 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012613&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9995.png?43963" group-title="8K| WORLD CUP 2026 ⁸ᴷ",RS: RTS 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012612&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/672.jpg?69235" group-title="8K| WORLD CUP 2026 ⁸ᴷ",SE: SVT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012611&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/670.png?37404" group-title="8K| WORLD CUP 2026 ⁸ᴷ",SE: SVT 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012610&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/879.jpg?76623" group-title="8K| WORLD CUP 2026 ⁸ᴷ",TR: TRT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012609&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/908.png?45291" group-title="8K| WORLD CUP 2026 ⁸ᴷ",TR: TRT SPOR ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012608&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14655.png?7868" group-title="8K| WORLD CUP 2026 ⁸ᴷ",UY: CANAL 10 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012597&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/8353.jpg?91889" group-title="8K| WORLD CUP 2026 ⁸ᴷ",AFG: ATN ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012666&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14148.png?20533" group-title="8K| WORLD CUP 2026 ⁸ᴷ",ALB: TV KLAN ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012665&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/1027.jpg?34793" group-title="8K| WORLD CUP 2026 ⁸ᴷ",ARG: TELEFE ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012664&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14803.png?46821" group-title="8K| WORLD CUP 2026 ⁸ᴷ",ARG: TV PUBLICA ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012663&extension=ts
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/3969.png?82627" group-title="8K| WORLD CUP 2026 ⁸ᴷ",ARG: TYC SPORTS ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:1C:47&stream=2012662&extension=ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/228686.png" group-title="TH| THAILAND",TH| CARTOON NETWORK
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=228686&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/228619.png" group-title="TH| THAILAND",TH| MIX MAJOR
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=228619&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164769.png" group-title="TH| THAILAND",TH| THAI 5 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164769&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LAO-CHAMPA-TV-2.jpg" group-title="TH| THAILAND",TH| LAO CHAMPA TV 2
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164768&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164767.png" group-title="TH| THAILAND",TH| YATEEM TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164767&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164762.png" group-title="TH| THAILAND",TH| VATI LAO
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164762&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164759.png" group-title="TH| THAILAND",TH| UNIQUELY THAI
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164759&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164758.png" group-title="TH| THAILAND",TH| TVMUSLIM THAI
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164758&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164757.png" group-title="TH| THAILAND",TH| TVK KHMER
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164757&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164756.png" group-title="TH| THAILAND",TH| TV9 KHMER
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164756&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164755.png" group-title="TH| THAILAND",TH| TV5 THAI HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164755&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1907197.png" group-title="TH| THAILAND",TH| Thairath TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1907197&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1660493.png" group-title="TH| THAILAND",TH| TRUE PREMIERE LEAGUE 1 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1660493&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TRUE-PREMIERE-LEAGUE.png" group-title="TH| THAILAND",TH| TRUE PREMIERE LEAGUE 2 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1660492&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TRUE-PREMIERE-LEAGUE.png" group-title="TH| THAILAND",TH| TRUE PREMIERE LEAGUE 3 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1660491&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TRUE-PREMIERE-LEAGUE.png" group-title="TH| THAILAND",TH| TRUE PREMIERE LEAGUE 4 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1660490&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TRUE-PREMIERE-LEAGUE.png" group-title="TH| THAILAND",TH| TRUE PREMIERE LEAGUE 5 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=1660489&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164751.png" group-title="TH| THAILAND",TH| TRUE 4U THAI HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164751&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164750.png" group-title="TH| THAILAND",TH| TNN24Thai
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164750&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164744.png" group-title="TH| THAILAND",TH| THAI 8 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164744&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164740.png" group-title="TH| THAILAND",TH| TEA TV KHMER
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164740&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164739.png" group-title="TH| THAILAND",TH| TEA TV HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164739&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164738.png" group-title="TH| THAILAND",TH| TATV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164738&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164737.png" group-title="TH| THAILAND",TH| STOU CHANNEL
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164737&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164736.png" group-title="TH| THAILAND",TH| CTB TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164736&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164735.png" group-title="TH| THAILAND",TH| SIENG KHAEN LAO TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164735&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164734.png" group-title="TH| THAILAND",TH| SIENG KASEEP TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164734&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164733.png" group-title="TH| THAILAND",TH| SENATE THAI HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164733&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164732.png" group-title="TH| THAILAND",TH| SEA TV NEW
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164732&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/THAI-PBS.png" group-title="TH| THAILAND",TH| PBS THAI
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164725&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164724.png" group-title="TH| THAILAND",TH| OY LAO TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164724&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164723.png" group-title="TH| THAILAND",TH| OH MUANG LAO HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164723&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164720.png" group-title="TH| THAILAND",TH| NING TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164720&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBT.png" group-title="TH| THAILAND",TH| NBT HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164717&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164715.png" group-title="TH| THAILAND",TH| NATIONAL REFORM COUNCIL TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164715&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164710.png" group-title="TH| THAILAND",TH| MYANMAR CHANNEL
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164710&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MY-TV.jpeg" group-title="TH| THAILAND",TH| MY TV KHMER
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164706&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MVTV-.jpg" group-title="TH| THAILAND",TH| MVTV-WSM HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164704&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164703.png" group-title="TH| THAILAND",TH| MVTV-VARIETY TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164703&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MVTV-.jpg" group-title="TH| THAILAND",TH| MVTV-TVB DRAMA
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164701&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164700.png" group-title="TH| THAILAND",TH| MVTV-MVM HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164700&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MVTV-.jpg" group-title="TH| THAILAND",TH| MVTV-MVLAO HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164699&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164698.png" group-title="TH| THAILAND",TH| MVTV-MML HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164698&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164697.png" group-title="TH| THAILAND",TH| MVTV-MIXMAJOR HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164697&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164696.png" group-title="TH| THAILAND",TH| MVTV-MHONG HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164696&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MVTV-.jpg" group-title="TH| THAILAND",TH| MVTV-MAJOR HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164695&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164694.png" group-title="TH| THAILAND",TH| MVTV HAPPY TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164694&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164692.png" group-title="TH| THAILAND",TH| MVTV - ESAN HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164692&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164691.png" group-title="TH| THAILAND",TH| MVTV-DO HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164691&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164690.png" group-title="TH| THAILAND",TH| MVTV-CH6 HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164690&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MVTV-.jpg" group-title="TH| THAILAND",TH| MVTV- 55CH HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164689&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164688.png" group-title="TH| THAILAND",TH| MV LAO
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164688&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MSJ-TV-KHMER.png" group-title="TH| THAILAND",TH| MSJ TV KHMER
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164687&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MALIMAR-LAO-AND-THAI.jpg" group-title="TH| THAILAND",TH| MALIMAR LAO AND THAI MUSIC
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164682&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164680.png" group-title="TH| THAILAND",TH| LS TV 1
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164680&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LOOK-THOONG-TV-HD.jpg" group-title="TH| THAILAND",TH| LOOK THOONG TV HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164679&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164678.png" group-title="TH| THAILAND",TH| LONE SINH LAO TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164678&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164677.png" group-title="TH| THAILAND",TH| LAOS PLANET TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164677&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LAO-THAI-TV-HD.jpg" group-title="TH| THAILAND",TH| LAO TV FREE ASIA
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164676&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164675.png" group-title="TH| THAILAND",TH| LAO THAI TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164675&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164674.png" group-title="TH| THAILAND",TH| LAO SV TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164674&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164672.png" group-title="TH| THAILAND",TH| LAO PSTV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164672&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164671.png" group-title="TH| THAILAND",TH| LAO PEOPLE POWER
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164671&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164670.png" group-title="TH| THAILAND",TH| LAO NATIONAL TV 3
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164670&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LAO-CHAMPA-TV-3.jpeg" group-title="TH| THAILAND",TH| LAO CHAMPA TV 3
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164668&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LAO-CHAMPA-TV-1.jpg" group-title="TH| THAILAND",TH| LAO CHAMPA TV 1
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164667&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LAO-NET-TV.jpg" group-title="TH| THAILAND",TH| LAO AMERICAN
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164666&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164665.png" group-title="TH| THAILAND",TH| KHOMSANH TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164665&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164664.png" group-title="TH| THAILAND",TH| ISTV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164664&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164663.png" group-title="TH| THAILAND",TH| HOUNG FA
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164663&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164662.png" group-title="TH| THAILAND",TH| HMONG USA TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164662&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164660.png" group-title="TH| THAILAND",TH| HMONG LAO TV  HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164660&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164659.png" group-title="TH| THAILAND",TH| HMONG FRESNO TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164659&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164655.png" group-title="TH| THAILAND",TH| GREEN CHANNEL
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164655&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164654.png" group-title="TH| THAILAND",TH| GOOD IDEA
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164654&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164652.png" group-title="TH| THAILAND",TH| GMM-ONE THAI
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164652&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164651.png" group-title="TH| THAILAND",TH| GMM ONE HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164651&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEEHUU.png" group-title="TH| THAILAND",TH| ZEEHUU  HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164648&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164647.png" group-title="TH| THAILAND",TH| ETV KHMER
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164647&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164646.png" group-title="TH| THAILAND",TH| DOPA CHANNEL
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164646&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164645.png" group-title="TH| THAILAND",TH| DDTV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164645&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DAO-LANE-XANG-TV.jpg" group-title="TH| THAILAND",TH| DAO LANE XANG
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164644&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HMONG-STAR-TV.jpg" group-title="TH| THAILAND",TH| CVA HMONG FRESNO
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164643&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CTN-KHMER.jpg" group-title="TH| THAILAND",TH| CTN KHMER
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164641&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164640.png" group-title="TH| THAILAND",TH| CH8 THAI
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164640&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CAMBODIA-TV.jpg" group-title="TH| THAILAND",TH| CAMBODIA TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164638&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164635.png" group-title="TH| THAILAND",TH| BRIAN TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164635&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164630.png" group-title="TH| THAILAND",TH| ASTV THAI HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164630&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AMARIN-TV.jpg" group-title="TH| THAILAND",TH| AMARIN TV THAI HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164628&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164627.png" group-title="TH| THAILAND",TH| AIR TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164627&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164626.png" group-title="TH| THAILAND",TH| ADL USA TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164626&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/GOOD-IDEA-TV.jpg" group-title="TH| THAILAND",TH|  GOOD IDEA TV USA
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164621&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164616.png" group-title="TH| THAILAND",TH| MONO+
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=164616&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/387479.png" group-title="TH| THAILAND",TH| BLOOMBERG
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=387479&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/387478.png" group-title="TH| THAILAND",TH| CNN HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=387478&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png" group-title="TH| THAILAND",TH| NBA TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=387475&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/387390.png" group-title="TH| THAILAND",TH| NICKELODEON
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=387390&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/paramountchannel.png" group-title="TH| THAILAND",TH| PARAMOUNT CHANNEL
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=387394&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TH| THAILAND",##### CAMBODIA #####
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853426&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CAMBODIA-TV.jpg" group-title="TH| THAILAND",KH| CAMBODIA TV HD
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853430&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/853429.png" group-title="TH| THAILAND",KH| BTV NEWS
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853429&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/853433.png" group-title="TH| THAILAND",KH| CTV 8
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853433&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/853436.png" group-title="TH| THAILAND",KH| ETV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853436&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/853439.png" group-title="TH| THAILAND",KH| MSJ TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853439&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/853446.png" group-title="TH| THAILAND",KH| TEA TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853446&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/853447.png" group-title="TH| THAILAND",KH| KHMER TV
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853447&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/853449.png" group-title="TH| THAILAND",KH| TV 5
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853449&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/853450.png" group-title="TH| THAILAND",KH| TV 9
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853450&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/853451.png" group-title="TH| THAILAND",KH| TVK
+http://sport-birutv.my.id:80/play/live.php?mac=00:1B:79:41:1F:AA&stream=853451&extension=ts
+
